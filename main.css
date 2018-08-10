@@ -1,0 +1,25 @@
+body {
+    background-color: turquoise;
+
+}
+
+h2 {
+    background-color: salmon;
+    text-align: center;
+}
+
+h3 {
+    background-color: grey;
+}
+h4 {
+    background-color: grey;
+}
+
+.image {
+    align-content: center;
+    text-align-last: center;
+}
+
+.committees {
+    text-align: left;
+}
